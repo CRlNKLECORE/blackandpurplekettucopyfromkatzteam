@@ -1,159 +1,175 @@
 {
-    "name": "BlackNPurple",
-    "description": "AMOLED Black with Purple Accent (#4801A9), based on BlackNPink by katzteam",
-    "authors": [
-        {
-            "name": "katzteam",
-            "id": "148531790884241409"
-        }
+  "name": "BlackNPurple",
+  "description": "Discord default background with Purple Accent (#4801A9), based on BlackNPink by katzteam",
+  "authors": [
+    {
+      "name": "katzteam",
+      "id": "148531790884241409"
+    }
+  ],
+  "semanticColors": {
+    "INTERACTIVE_NORMAL": [
+      "#7B2FE8"
     ],
-    "semanticColors": {
-        "INTERACTIVE_ACTIVE": [
-            "#4801A9"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#26015A"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#000000"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#000000"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#000000"
-        ],
-        "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#121212"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#000000"
-        ],
-        "SPINE_DEFAULT": [
-            "#000000"
-        ],
-        "BORDER_SUBTLE": [
-            "#000000"
-        ],
-        "DIVIDER_STRONG": [
-            "#000000"
-        ],
-        "DIVIDER_SUBTLE": [
-            "#000000"
-        ],
-        "THEME_LOCKED_BLUR_FALLBACK": [
-            "#000000"
-        ],
-        "CHAT_INPUT_CONTAINER_BACKGROUND": [
-            "#000000"
-        ],
-        "STAGE_CARD_PILL_BG": [
-            "#000000"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#000000"
-        ],
-        "BACKGROUND_MESSAGE_HOVER": [
-            "#4801A9"
-        ],
-        "BUTTON_OUTLINE_BRAND_BACKGROUND": [
-            "#4801A9"
-        ],
-        "BUTTON_OUTLINE_BRAND_BOARDER": [
-            "#4801A9"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#000000"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"
-        ],
-        "BACKGROUND_NESTED_FLOATING": [
-            "#000000"
-        ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "#000000"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#000000"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#000000"
-        ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#000000"
-        ],
-        "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-            "#121212"
-        ],
-        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#121212"
-        ],
-        "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
-            "#4801A9"
-        ],
-        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-            "#080808"
-        ],
-        "RESDIGN_CHAT_INPUT_BACKGROUND": [
-            "#000000"
-        ],
-        "BG_BASE_PRIMARY": [
-            "#000000"
-        ],
-        "TOAST_BG": [
-            "#000000"
-        ],
-        "SCROLLBAR_THIN_TRACK": [
-            "transparent"
-        ],
-        "TEXT_LINK": [
-            "#4801A9"
-        ],
-        "CHANNEL_ICON": [
-            "#4801A9"
-        ],
-        "CHAT_BACKGROUND": [
-            "#000000"
-        ],
-        "CARD_PRIMARY_BG": [
-            "#000000"
-        ],
-        "BACKGROUND_MENTIONED": [
-            "#0E0021"
-        ],
-        "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
-            "#000000",
-            "#000000",
-            "#000000"
-        ]
-    },
-    "rawColors": {
-        "BRAND": "#4801A9",
-        "BRAND_260": "#4801A9",
-        "BRAND_360": "#4801A9",
-        "BRAND_500": "#4801A9",
-        "BRAND_560": "#4801A9",
-        "PLUM_1": "#4801A9",
-        "PLUM_11": "#000000",
-        "PLUM_17": "#000000",
-        "PLUM_18": "#000000",
-        "PLUM_19": "#000000",
-        "PLUM_20": "#000000",
-        "PLUM_22": "#000000",
-        "PLUM_23": "#000000",
-        "PLUM_24": "#000000",
-        "YELLOW_260": "#4801A9",
-        "YELLOW_300": "#4801A9",
-        "PRIMARY_560": "#000000",
-        "PRIMARY_600": "#000000",
-        "PRIMARY_630": "#000000",
-        "PRIMARY_660": "#000000",
-        "PRIMARY_700": "#000000",
-        "PRIMARY_800": "#000000"
-    },
-    "spec": 2
+    "INTERACTIVE_HOVER": [
+      "#8F4BF2"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#A875F5"
+    ],
+
+    "TEXT_LINK": [
+      "#8F4BF2"
+    ],
+
+    "CHANNEL_ICON": [
+      "#7B2FE8"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#8F4BF2"
+    ],
+    "THREAD_CHANNEL_SPINE": [
+      "#4801A9"
+    ],
+
+    "BACKGROUND_ACCENT": [
+      "#4801A9"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#4801A924"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#4801A93D"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#4801A91F"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#4801A933"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#4801A947"
+    ],
+
+    "MENTION_BACKGROUND": [
+      "#4801A929"
+    ],
+    "MENTION_FOREGROUND": [
+      "#A875F5"
+    ],
+
+    "BADGE_BRAND_BG": [
+      "#4801A9"
+    ],
+    "BADGE_BRAND_TEXT": [
+      "#FFFFFF"
+    ],
+
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+      "#4801A9"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_ALT_BACKGROUND": [
+      "#4801A9"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+      "#26015A"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_TEXT": [
+      "#FFFFFF"
+    ],
+    "REDESIGN_BUTTON_ACTIVE_TEXT": [
+      "#A875F5"
+    ],
+
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#4801A9"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
+      "#4801A933"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_OVERLAY_TEXT": [
+      "#A875F5"
+    ],
+
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#8F4BF2"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#A875F5"
+    ],
+
+    "REDESIGN_INPUT_CONTROL_SELECTED": [
+      "#4801A9"
+    ],
+    "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
+      "#4801A933"
+    ],
+    "INPUT_FOCUSED_BORDER": [
+      "#4801A9"
+    ],
+
+    "NAVIGATOR_HEADER_TINT": [
+      "#8F4BF2"
+    ],
+    "LOGO_PRIMARY": [
+      "#8F4BF2"
+    ],
+
+    "POLLS_VICTOR_FILL": [
+      "#4801A955"
+    ],
+    "POLLS_VOTED_FILL": [
+      "#4801A944"
+    ],
+
+    "ANDROID_RIPPLE": [
+      "#4801A933"
+    ],
+
+    "SCROLLBAR_THIN_THUMB": [
+      "#4801A9"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#4801A9"
+    ],
+
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#4801A94D"
+    ],
+
+    "SPINE_DEFAULT": [
+      "#4801A9"
+    ]
+  },
+
+  "rawColors": {
+    "BRAND": "#4801A9",
+
+    "BRAND_260": "#A875F5",
+    "BRAND_300": "#9C61F3",
+    "BRAND_330": "#954FF0",
+    "BRAND_345": "#8F43EC",
+    "BRAND_360": "#8938E8",
+    "BRAND_400": "#7B2FE8",
+    "BRAND_430": "#7027DA",
+    "BRAND_460": "#6520CD",
+    "BRAND_500": "#4801A9",
+    "BRAND_530": "#3E0192",
+    "BRAND_560": "#34017B",
+    "BRAND_600": "#2C0169",
+    "BRAND_630": "#26015A",
+    "BRAND_660": "#20014D",
+    "BRAND_700": "#19013D",
+    "BRAND_730": "#140131",
+
+    "GUILD_BOOSTING_PINK": "#8F4BF2",
+    "GUILD_BOOSTING_PURPLE": "#4801A9",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#7B2FE8",
+    "PREMIUM_PERK_PINK": "#8F4BF2"
+  },
+
+  "spec": 2
 }
